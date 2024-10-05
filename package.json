@@ -1,0 +1,12 @@
+{
+  "name": "top-basic-info-site-nodejs",
+  "version": "1.0.0",
+  "description": "The Odin Project: Basic Informational Site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
